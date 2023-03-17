@@ -1,0 +1,14 @@
+name,star_name,type,earth_masses,distance_au,earth_radii,suitable_of_life,description
+Earth,Sun,Terrestrial,1,1,1,True,Our home planet, with liquid water on the surface and a breathable atmosphere. It is the only known planet to harbor life.
+Mercury,Sun,Terrestrial,0.055,0.387,0.383,False,Closest planet to the Sun with a heavily cratered surface and no atmosphere.
+Neptune,Sun,Ice Giant,17.147,30.07,3.883,False,Has a deep blue color and 14 moons, with a turbulent atmosphere of hydrogen, helium, and methane.
+Jupiter,Sun,Gas Giant,317.8,5.20,86.881,False,Largest planet in the solar system with 79 known moons, a thick atmosphere of hydrogen, helium, and ammonia.
+Saturn,Sun,Gas Giant,95.159,9.58,72.367,False,Known for its rings made of ice particles, with 82 known moons and a thick atmosphere of hydrogen, helium, and methane.
+Mars,Sun,Terrestrial,0.107,1.52,0.532,False,Known as the "Red Planet," it has a thin atmosphere and no liquid water on the surface, but may have subsurface liquid water and potential for microbial life.
+Venus,Sun,Terrestrial,0.815,0.723,0.949,False,Has a thick, toxic atmosphere with extreme greenhouse effect, making it the hottest planet in the solar system.
+Uranus,Sun,Ice giant,14.536,19.18,4.007,False,Uranus is the seventh planet from the Sun and is the third-largest planet in the Solar System. It has the coldest planetary atmosphere in the Solar System, with a minimum temperature of -224 °C. Uranus is known for its unique feature: it rotates on its side, with an axial tilt of 98 degrees.
+Kepler-62f,Alpha Centauri A,Terrestrial,0.63,0.04,1.41,True,Exoplanet in the habitable zone of a K-type star, potentially with liquid water on its surface.
+Antares b,Antares,Gas Giant,13.67,550,1.32,False,A gas giant planet that orbits a red supergiant star. Antares b is one of the few exoplanets that has been discovered using the radial velocity method, and its extreme proximity to its host star means that it has a surface temperature of over 1,500 degrees Celsius.
+WASP-47e,Rigel,Neptune-like,9.3,0.05,3.34,False,Exoplanet with a mass similar to Neptune, orbiting a star with a binary companion.
+Kepler-1625b,Vega,Jupiter-like,1.47,0.05,1.5,False,Exoplanet in a binary star system, with a large size similar to Jupiter.
+HD 131399Ab,Triangulum X-1,Jupiter-like,4,82,1.5,False,Exoplanet orbiting a star in a triple star system, with an extremely wide orbit.

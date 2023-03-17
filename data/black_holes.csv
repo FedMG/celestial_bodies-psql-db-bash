@@ -1,0 +1,6 @@
+name,type,solar_masses,distance_from_earth,super_massive,constellation,galaxy_name
+V616 Monocerotis,Stellar,9.2–13.0,3.000 light-years,false,Monoceros,Milky Way
+GRO J1655-40,Stellar,6.3–7.0,3.200 light-years,false,Scorpius,Milky Way
+Sagittarius A*,Stellar,4.1 million,25.640 light-years,true,Sagittarius,Milky Way
+Cygnus X-1, Stellar,14.8 ± 1.0,6.070 light-years,False,Cygnus,Milky Way
+M31,Supermassive,110-230 million,2.5 million light-years,true,Andromeda,Andromeda Galaxy

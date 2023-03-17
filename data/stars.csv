@@ -1,0 +1,16 @@
+name,age_years,type,solar_radius,temperature_k,solar_masses,distance_light_years,color,galaxy
+Sun,4.6 billion,G2V (Main-sequence),1.00,5.500,1.00,0,Yellow,Milky Way
+Sirius,2.6 - 300 million,Main Sequence,1.71,9.940,2.02,8.6,Blue-white,Milky Way
+Betelgeuse,8 - 8.5 million,Red Supergiant,910,3.500,13.3,642,Red,Milky Way
+Proxima Centauri,4.85 billion,Red Dwarf,0.141,2.800,0.12,4.24,Red,Milky Way
+Antares,12 million,Red Supergiant,998,3.500,15,550,Red,Milky Way
+Alpha Centauri A,6.3 billion,Main Sequence,1.227,5.770,1.1,4.37,Yellow,Milky Way
+Alpha Centauri B,6.3 billion,Main Sequence,0.865,5.240,0.907,4.37,Orange,Milky Way
+Rigel,10 million,Blue Supergiant,95,11.000,17.1,863,Blue,Milky Way
+Vega,455 million,Main Sequence,2.135,9.600,2.1,25.05,Blue,Milky Way
+Aldebaran,6.6 billion,Red Giant,50.5,3.900,1.75,65.23,Orange-red,Milky Way
+Triangulum X-1,12.5 million,Neutron Star,11.0,1.2,2.5,3 million,Blue,Triangulum Galaxy
+Polaris,70-150 million,F7 yellow supergiant,46.6,6.000,6,323.2,Yellow,Milky Way
+Eta Carinae,3 million,Luminous blue variable,250,25.000,135,7.500,Blue,Milky Way
+WOH G64,2 million,Red hypergiant,1.540,3.400,30,163.000,Red,Large Magellanic Cloud
+WR 102,2-3 million,Wolf-Rayet star,1.5,210.000,35,8.000,Blue,Milky Way
