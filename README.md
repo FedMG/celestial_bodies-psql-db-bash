@@ -1,6 +1,6 @@
 # Celestial Bodies Database & Bash Project
 
-This project is a database for a universe celestial bodies to make differents query with relations and insert differents data types using PostgreSQL.
+This project is a database for the universe celestial bodies to make differents query and insert differents data types using PostgreSQL.
 
 
 ## Bash Script
